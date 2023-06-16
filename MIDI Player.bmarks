@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BrowseTracker_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="3064" topLine="20" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="MIDI.h" open="1" top="0" tabpos="2">
+		<Cursor position="2117" topLine="55" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="MIDI.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="7940" topLine="319" />
+		<BrowseMarks positions="" />
+	</File>
+</BrowseTracker_layout_file>

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1686888725 source:d:\proj\midi player\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"MIDI.h"
+
+1686888578 source:d:\proj\midi player\midi.cpp
+	"MIDI.h"
+	<stdlib.h>
+	<fstream>
+
+1686877046 d:\proj\midi player\midi.h
+	<vector>
+	<windows.h>
+	<thread>
+	<atomic>
+	<math.h>
+	<iostream>
+	<fstream>
+
