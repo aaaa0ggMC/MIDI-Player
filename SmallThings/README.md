@@ -35,3 +35,5 @@ nbody -file xxx
 # p x y v_x v_y mass r g b
 p 400 300 1 1 100 255 255 255
 ```
+
+
