@@ -1,6 +1,9 @@
 # SmallPrograms
  业余写点小玩意儿
 
+
+Github2FA太阴险了，这个项目暂时放到Gitlab Hongkong
+
 ## 环境
 ### Shell
 - msys64
